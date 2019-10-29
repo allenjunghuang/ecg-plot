@@ -1,11 +1,9 @@
-# Biosignal Fusion
+# Physiology Modeling
 
-## Ground Reaction Force
+## GRF
 
 
 ## ECG
 
 
 ## EEG
-
-ICA (independent component analysis)
